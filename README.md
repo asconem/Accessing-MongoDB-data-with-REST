@@ -1,0 +1,1 @@
+Builds a Spring application that lets you create and retrieve Person objects stored in a MongoDB NoSQL database by using Spring Data REST. 
