@@ -1,4 +1,4 @@
-package com.example.accessingmongodatarest;
+package com.example.accessingmongodbdatarest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

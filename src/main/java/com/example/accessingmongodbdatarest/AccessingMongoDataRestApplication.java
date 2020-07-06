@@ -1,4 +1,4 @@
-package com.example.accessingmongodatarest;
+package com.example.accessingmongodbdatarest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
